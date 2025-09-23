@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: a4d4f8905655d484bb760a12a6215f12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9198337606539728600
+    second: CTRLogoWhite_0
+  - first:
+      213: -7708836396856085677
+    second: CTRLogoWhite_1
+  - first:
+      213: -1688111332839806256
+    second: CTRLogoWhite_2
+  - first:
+      213: -2804454911360146651
+    second: CTRLogoWhite_3
+  - first:
+      213: 2462188581827054352
+    second: CTRLogoWhite_4
+  - first:
+      213: 7783485202484266710
+    second: CTRLogoWhite_5
+  - first:
+      213: -2635291906778358257
+    second: CTRLogoWhite_6
+  - first:
+      213: 356267448414390013
+    second: CTRLogoWhite_7
+  - first:
+      213: -5839780851161944206
+    second: CTRLogoWhite_8
+  - first:
+      213: -8746691780995736923
+    second: CTRLogoWhite_9
+  - first:
+      213: 5114349057647492439
+    second: CTRLogoWhite_10
+  - first:
+      213: 244191483081977892
+    second: CTRLogoWhite_11
+  - first:
+      213: -6084409501896252968
+    second: CTRLogoWhite_12
+  - first:
+      213: -8852716645877694338
+    second: CTRLogoWhite_13
+  - first:
+      213: 4352716259168072151
+    second: CTRLogoWhite_14
+  - first:
+      213: -6822685179936326169
+    second: CTRLogoWhite_15
+  - first:
+      213: -2105883554834957107
+    second: CTRLogoWhite_16
+  - first:
+      213: -877704385189189894
+    second: CTRLogoWhite_17
+  - first:
+      213: -5787709177598785113
+    second: CTRLogoWhite_18
+  - first:
+      213: 7025764251801711710
+    second: CTRLogoWhite_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CTRLogoWhite_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 285
+        width: 595
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82925168ea0f85080800000000000000
+      internalID: -9198337606539728600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_1
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 558
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3537ac5e326b40590800000000000000
+      internalID: -7708836396856085677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_2
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 448
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daa5c0dfaf9298e0800000000000000
+      internalID: -1688111332839806256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_3
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 446
+        width: 77
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52367c3ed139419d0800000000000000
+      internalID: -2804454911360146651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_4
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 448
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b03dd48737b2220800000000000000
+      internalID: 2462188581827054352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_5
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 448
+        width: 73
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d685909d8e740c60800000000000000
+      internalID: 7783485202484266710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 285
+        width: 76
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e930129ff8d6bd0800000000000000
+      internalID: -2635291906778358257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_7
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 283
+        width: 77
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df646c35b57b1f400800000000000000
+      internalID: 356267448414390013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_8
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 285
+        width: 66
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f2d50a14ee4fea0800000000000000
+      internalID: -5839780851161944206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_9
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 283
+        width: 76
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa9be9ca228d9680800000000000000
+      internalID: -8746691780995736923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_10
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 333
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dbe66fe51d9f640800000000000000
+      internalID: 5114349057647492439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_11
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 249
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420f64e2cda836300800000000000000
+      internalID: 244191483081977892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_12
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 122
+        width: 77
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1667b6bc5df8ba0800000000000000
+      internalID: -6084409501896252968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 122
+        width: 65
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70c5414d15d42580800000000000000
+      internalID: -8852716645877694338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_14
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 122
+        width: 78
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1b7c34064f76c30800000000000000
+      internalID: 4352716259168072151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_15
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 122
+        width: 66
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edb29b1af3f051a0800000000000000
+      internalID: -6822685179936326169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_16
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 122
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccb9b7701666c2e0800000000000000
+      internalID: -2105883554834957107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_17
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 122
+        width: 77
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6eefe0384c1d3f0800000000000000
+      internalID: -877704385189189894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_18
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 122
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9c4f5ea2dedafa0800000000000000
+      internalID: -5787709177598785113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoWhite_19
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 120
+        width: 77
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e547748ec57808160800000000000000
+      internalID: 7025764251801711710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CTRLogoWhite_0: -9198337606539728600
+      CTRLogoWhite_1: -7708836396856085677
+      CTRLogoWhite_10: 5114349057647492439
+      CTRLogoWhite_11: 244191483081977892
+      CTRLogoWhite_12: -6084409501896252968
+      CTRLogoWhite_13: -8852716645877694338
+      CTRLogoWhite_14: 4352716259168072151
+      CTRLogoWhite_15: -6822685179936326169
+      CTRLogoWhite_16: -2105883554834957107
+      CTRLogoWhite_17: -877704385189189894
+      CTRLogoWhite_18: -5787709177598785113
+      CTRLogoWhite_19: 7025764251801711710
+      CTRLogoWhite_2: -1688111332839806256
+      CTRLogoWhite_3: -2804454911360146651
+      CTRLogoWhite_4: 2462188581827054352
+      CTRLogoWhite_5: 7783485202484266710
+      CTRLogoWhite_6: -2635291906778358257
+      CTRLogoWhite_7: 356267448414390013
+      CTRLogoWhite_8: -5839780851161944206
+      CTRLogoWhite_9: -8746691780995736923
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

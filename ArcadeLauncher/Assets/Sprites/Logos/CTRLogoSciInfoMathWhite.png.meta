@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: 6dc41251cbadf554783a793a84bc0868
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2317731958136301099
+    second: CTRLogoSciInfoMathWhite_0
+  - first:
+      213: 4384891465938732022
+    second: CTRLogoSciInfoMathWhite_1
+  - first:
+      213: 4631471613252827425
+    second: CTRLogoSciInfoMathWhite_2
+  - first:
+      213: -1533718802113788517
+    second: CTRLogoSciInfoMathWhite_3
+  - first:
+      213: -5609656693318117564
+    second: CTRLogoSciInfoMathWhite_4
+  - first:
+      213: -6640557168586770524
+    second: CTRLogoSciInfoMathWhite_5
+  - first:
+      213: -1560425728346752794
+    second: CTRLogoSciInfoMathWhite_6
+  - first:
+      213: 1406091390630237109
+    second: CTRLogoSciInfoMathWhite_7
+  - first:
+      213: 5710639974518399690
+    second: CTRLogoSciInfoMathWhite_8
+  - first:
+      213: -7398574307077797089
+    second: CTRLogoSciInfoMathWhite_9
+  - first:
+      213: -954208069557843365
+    second: CTRLogoSciInfoMathWhite_10
+  - first:
+      213: 4852682890368184287
+    second: CTRLogoSciInfoMathWhite_11
+  - first:
+      213: 7003893565819275722
+    second: CTRLogoSciInfoMathWhite_12
+  - first:
+      213: 1941706158681549150
+    second: CTRLogoSciInfoMathWhite_13
+  - first:
+      213: -794384576909020767
+    second: CTRLogoSciInfoMathWhite_14
+  - first:
+      213: 68545746696628836
+    second: CTRLogoSciInfoMathWhite_15
+  - first:
+      213: 2045941702508303935
+    second: CTRLogoSciInfoMathWhite_16
+  - first:
+      213: -5837099199792571533
+    second: CTRLogoSciInfoMathWhite_17
+  - first:
+      213: 611310022265128695
+    second: CTRLogoSciInfoMathWhite_18
+  - first:
+      213: -4248841920469303444
+    second: CTRLogoSciInfoMathWhite_19
+  - first:
+      213: -1646809221429095548
+    second: CTRLogoSciInfoMathWhite_20
+  - first:
+      213: -2543732814995265909
+    second: CTRLogoSciInfoMathWhite_21
+  - first:
+      213: -5455106539140909205
+    second: CTRLogoSciInfoMathWhite_22
+  - first:
+      213: -5769855939675875687
+    second: CTRLogoSciInfoMathWhite_23
+  - first:
+      213: 3894575516269693361
+    second: CTRLogoSciInfoMathWhite_24
+  - first:
+      213: -4755178179643572298
+    second: CTRLogoSciInfoMathWhite_25
+  - first:
+      213: 7123801322469333112
+    second: CTRLogoSciInfoMathWhite_26
+  - first:
+      213: -8597368159008314340
+    second: CTRLogoSciInfoMathWhite_27
+  - first:
+      213: -2425228332654269284
+    second: CTRLogoSciInfoMathWhite_28
+  - first:
+      213: -72046900318234675
+    second: CTRLogoSciInfoMathWhite_29
+  - first:
+      213: 5215295521506637546
+    second: CTRLogoSciInfoMathWhite_30
+  - first:
+      213: -843864746558606467
+    second: CTRLogoSciInfoMathWhite_31
+  - first:
+      213: 4192591198416144185
+    second: CTRLogoSciInfoMathWhite_32
+  - first:
+      213: -523383122879531299
+    second: CTRLogoSciInfoMathWhite_33
+  - first:
+      213: 803676547753713224
+    second: CTRLogoSciInfoMathWhite_34
+  - first:
+      213: 3850540251790519966
+    second: CTRLogoSciInfoMathWhite_35
+  - first:
+      213: 8912056114103257135
+    second: CTRLogoSciInfoMathWhite_36
+  - first:
+      213: 7836595112792021184
+    second: CTRLogoSciInfoMathWhite_37
+  - first:
+      213: -6293116547627357253
+    second: CTRLogoSciInfoMathWhite_38
+  - first:
+      213: -5488192590784155227
+    second: CTRLogoSciInfoMathWhite_39
+  - first:
+      213: 6172289192875778807
+    second: CTRLogoSciInfoMathWhite_40
+  - first:
+      213: -7074047211566243992
+    second: CTRLogoSciInfoMathWhite_41
+  - first:
+      213: -350104568868093602
+    second: CTRLogoSciInfoMathWhite_42
+  - first:
+      213: 2614753510524325762
+    second: CTRLogoSciInfoMathWhite_43
+  - first:
+      213: 7143035556932913290
+    second: CTRLogoSciInfoMathWhite_44
+  - first:
+      213: 4149306455243624459
+    second: CTRLogoSciInfoMathWhite_45
+  - first:
+      213: -4287233928584721980
+    second: CTRLogoSciInfoMathWhite_46
+  - first:
+      213: -7688340051852984693
+    second: CTRLogoSciInfoMathWhite_47
+  - first:
+      213: 1765433891943160943
+    second: CTRLogoSciInfoMathWhite_48
+  - first:
+      213: -1377469450037341762
+    second: CTRLogoSciInfoMathWhite_49
+  - first:
+      213: 1516198322952975699
+    second: CTRLogoSciInfoMathWhite_50
+  - first:
+      213: 4443922446845178396
+    second: CTRLogoSciInfoMathWhite_51
+  - first:
+      213: -1098078125577098063
+    second: CTRLogoSciInfoMathWhite_52
+  - first:
+      213: -3924605977031668333
+    second: CTRLogoSciInfoMathWhite_53
+  - first:
+      213: -3937162863661755848
+    second: CTRLogoSciInfoMathWhite_54
+  - first:
+      213: -9162394878451337819
+    second: CTRLogoSciInfoMathWhite_55
+  - first:
+      213: -5668362054132233150
+    second: CTRLogoSciInfoMathWhite_56
+  - first:
+      213: 4674244794611576002
+    second: CTRLogoSciInfoMathWhite_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 146
+        width: 299
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d917be5013c5dfd0800000000000000
+      internalID: -2317731958136301099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 282
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f38bed5e834adc30800000000000000
+      internalID: 4384891465938732022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 227
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1297d37c4ea464040800000000000000
+      internalID: 4631471613252827425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 226
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b958bae10e227bae0800000000000000
+      internalID: -1533718802113788517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 227
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44791ea65fe7622b0800000000000000
+      internalID: -5609656693318117564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 227
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a736b7307008d3a0800000000000000
+      internalID: -6640557168586770524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_6
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 64
+        width: 8
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8f28b4111485ae0800000000000000
+      internalID: -1560425728346752794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_7
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 226
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b310448ba0738310800000000000000
+      internalID: 1406091390630237109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_8
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 226
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2a051fcc4404f40800000000000000
+      internalID: 5710639974518399690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_9
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 227
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bcb46fddbf25990800000000000000
+      internalID: -7398574307077797089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_10
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 227
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a813cf0d8f1c2f0800000000000000
+      internalID: -954208069557843365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_11
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 227
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfe200d061385340800000000000000
+      internalID: 4852682890368184287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_12
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 226
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac94d430714d23160800000000000000
+      internalID: 7003893565819275722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_13
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 227
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59e666b67352fa10800000000000000
+      internalID: 1941706158681549150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_14
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 226
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1f946af67c9f4f0800000000000000
+      internalID: -794384576909020767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 146
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a67b25ef583f000800000000000000
+      internalID: 68545746696628836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_16
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 145
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f365a297325a46c10800000000000000
+      internalID: 2045941702508303935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_17
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 146
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b95ad34357efea0800000000000000
+      internalID: -5837099199792571533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 145
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6cfb4f93fcb7800800000000000000
+      internalID: 611310022265128695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_19
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 170
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f73afd8c41905c0800000000000000
+      internalID: -4248841920469303444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_20
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 146
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48391effcbb5529e0800000000000000
+      internalID: -1646809221429095548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_21
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 146
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86e3b66b78d2bcd0800000000000000
+      internalID: -2543732814995265909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_22
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 146
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67789a41819b44b0800000000000000
+      internalID: -5455106539140909205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_23
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 145
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9961176c79a5defa0800000000000000
+      internalID: -5769855939675875687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_24
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 146
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b940363ccf4c0630800000000000000
+      internalID: 3894575516269693361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_25
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 146
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bff7aeb3a6320eb0800000000000000
+      internalID: -4755178179643572298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_26
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 146
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8781e3c2f83dcd260800000000000000
+      internalID: 7123801322469333112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_27
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 146
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c2e0fc53300b880800000000000000
+      internalID: -8597368159008314340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_28
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 146
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cedec4eabd75ed0800000000000000
+      internalID: -2425228332654269284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_29
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 139
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc71d53d9b9000ff0800000000000000
+      internalID: -72046900318234675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_30
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 145
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6b61e15a3706840800000000000000
+      internalID: 5215295521506637546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_31
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 146
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7336e6eb7df944f0800000000000000
+      internalID: -843864746558606467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_32
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 145
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937060e4b731f2a30800000000000000
+      internalID: 4192591198416144185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_33
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 128
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6b45f92d19cb8f0800000000000000
+      internalID: -523383122879531299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_34
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 120
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e1c27ef8b372b00800000000000000
+      internalID: 803676547753713224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 64
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e215d35fddf6530800000000000000
+      internalID: 3850540251790519966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 64
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28097351dbfdab70800000000000000
+      internalID: 8912056114103257135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_37
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 64
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8d78a2cbd21cc60800000000000000
+      internalID: 7836595112792021184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_38
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 64
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbe980a7db5aa8a0800000000000000
+      internalID: -6293116547627357253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_39
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 64
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a131679ae506d3b0800000000000000
+      internalID: -5488192590784155227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_40
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 64
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2e758915068a550800000000000000
+      internalID: 6172289192875778807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_41
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 64
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f504e7a8fe3dd90800000000000000
+      internalID: -7074047211566243992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_42
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 63
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e514062efbd242bf0800000000000000
+      internalID: -350104568868093602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_43
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 64
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f020ad678794420800000000000000
+      internalID: 2614753510524325762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_44
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 64
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8888fc5ef8212360800000000000000
+      internalID: 7143035556932913290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_45
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 64
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b001801bc3c459930800000000000000
+      internalID: 4149306455243624459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_46
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 64
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c984b9e47fa084c0800000000000000
+      internalID: -4287233928584721980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_47
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 64
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ef4e815778d4590800000000000000
+      internalID: -7688340051852984693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_48
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 64
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c15b365c4108810800000000000000
+      internalID: 1765433891943160943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_49
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 64
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1529555de32ece0800000000000000
+      internalID: -1377469450037341762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_50
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 64
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355b7a0775e9a0510800000000000000
+      internalID: 1516198322952975699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_51
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 64
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c127795abebfbad30800000000000000
+      internalID: 4443922446845178396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_52
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 64
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca95d33c7d2c0f0800000000000000
+      internalID: -1098078125577098063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_53
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 64
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d07a748aff889c0800000000000000
+      internalID: -3924605977031668333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_54
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 57
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832d4984c336c59c0800000000000000
+      internalID: -3937162863661755848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_55
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 64
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5bc0a0762a8d080800000000000000
+      internalID: -9162394878451337819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_56
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 64
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c05297ebee551b0800000000000000
+      internalID: -5668362054132233150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CTRLogoSciInfoMathWhite_57
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 64
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccaa0020e04ed040800000000000000
+      internalID: 4674244794611576002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CTRLogoSciInfoMathWhite_0: -2317731958136301099
+      CTRLogoSciInfoMathWhite_1: 4384891465938732022
+      CTRLogoSciInfoMathWhite_10: -954208069557843365
+      CTRLogoSciInfoMathWhite_11: 4852682890368184287
+      CTRLogoSciInfoMathWhite_12: 7003893565819275722
+      CTRLogoSciInfoMathWhite_13: 1941706158681549150
+      CTRLogoSciInfoMathWhite_14: -794384576909020767
+      CTRLogoSciInfoMathWhite_15: 68545746696628836
+      CTRLogoSciInfoMathWhite_16: 2045941702508303935
+      CTRLogoSciInfoMathWhite_17: -5837099199792571533
+      CTRLogoSciInfoMathWhite_18: 611310022265128695
+      CTRLogoSciInfoMathWhite_19: -4248841920469303444
+      CTRLogoSciInfoMathWhite_2: 4631471613252827425
+      CTRLogoSciInfoMathWhite_20: -1646809221429095548
+      CTRLogoSciInfoMathWhite_21: -2543732814995265909
+      CTRLogoSciInfoMathWhite_22: -5455106539140909205
+      CTRLogoSciInfoMathWhite_23: -5769855939675875687
+      CTRLogoSciInfoMathWhite_24: 3894575516269693361
+      CTRLogoSciInfoMathWhite_25: -4755178179643572298
+      CTRLogoSciInfoMathWhite_26: 7123801322469333112
+      CTRLogoSciInfoMathWhite_27: -8597368159008314340
+      CTRLogoSciInfoMathWhite_28: -2425228332654269284
+      CTRLogoSciInfoMathWhite_29: -72046900318234675
+      CTRLogoSciInfoMathWhite_3: -1533718802113788517
+      CTRLogoSciInfoMathWhite_30: 5215295521506637546
+      CTRLogoSciInfoMathWhite_31: -843864746558606467
+      CTRLogoSciInfoMathWhite_32: 4192591198416144185
+      CTRLogoSciInfoMathWhite_33: -523383122879531299
+      CTRLogoSciInfoMathWhite_34: 803676547753713224
+      CTRLogoSciInfoMathWhite_35: 3850540251790519966
+      CTRLogoSciInfoMathWhite_36: 8912056114103257135
+      CTRLogoSciInfoMathWhite_37: 7836595112792021184
+      CTRLogoSciInfoMathWhite_38: -6293116547627357253
+      CTRLogoSciInfoMathWhite_39: -5488192590784155227
+      CTRLogoSciInfoMathWhite_4: -5609656693318117564
+      CTRLogoSciInfoMathWhite_40: 6172289192875778807
+      CTRLogoSciInfoMathWhite_41: -7074047211566243992
+      CTRLogoSciInfoMathWhite_42: -350104568868093602
+      CTRLogoSciInfoMathWhite_43: 2614753510524325762
+      CTRLogoSciInfoMathWhite_44: 7143035556932913290
+      CTRLogoSciInfoMathWhite_45: 4149306455243624459
+      CTRLogoSciInfoMathWhite_46: -4287233928584721980
+      CTRLogoSciInfoMathWhite_47: -7688340051852984693
+      CTRLogoSciInfoMathWhite_48: 1765433891943160943
+      CTRLogoSciInfoMathWhite_49: -1377469450037341762
+      CTRLogoSciInfoMathWhite_5: -6640557168586770524
+      CTRLogoSciInfoMathWhite_50: 1516198322952975699
+      CTRLogoSciInfoMathWhite_51: 4443922446845178396
+      CTRLogoSciInfoMathWhite_52: -1098078125577098063
+      CTRLogoSciInfoMathWhite_53: -3924605977031668333
+      CTRLogoSciInfoMathWhite_54: -3937162863661755848
+      CTRLogoSciInfoMathWhite_55: -9162394878451337819
+      CTRLogoSciInfoMathWhite_56: -5668362054132233150
+      CTRLogoSciInfoMathWhite_57: 4674244794611576002
+      CTRLogoSciInfoMathWhite_6: -1560425728346752794
+      CTRLogoSciInfoMathWhite_7: 1406091390630237109
+      CTRLogoSciInfoMathWhite_8: 5710639974518399690
+      CTRLogoSciInfoMathWhite_9: -7398574307077797089
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
