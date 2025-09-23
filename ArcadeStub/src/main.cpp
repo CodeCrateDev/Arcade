@@ -2,6 +2,7 @@
 
 #include "utils.h"
 
+// List of all exit codes, could be checked in ArcadeLauncher if needed
 const int EXIT_OK = 0;
 const int EXIT_ARG_ERROR = 1;
 const int EXIT_GAME_ERROR = 2;
