@@ -42,3 +42,12 @@ Tout ce qu'il contient sont les info requis pour lancer et jeu, ainsi que des do
   "imagePath": "Images/ExampleGame.png"
 }
 ```
+
+## Comment ajouter une image
+Chaque jeu aura un image ou "thumbnail" qui apparaitra dans le menu de sélection de jeu.
+Pour que l'image soit charger correctement, elle doit respecter plusieurs critères.
+
+### Exigences de l'image
+- L'image doit être de type **PNG**
+- L'image doit avoir une résolution de ```800x600``` pixels
+- L'image doit être de format **RGB** et non **RGBA**, malgré qu'elle va apparaitre quand même
