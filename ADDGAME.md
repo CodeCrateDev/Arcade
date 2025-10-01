@@ -7,14 +7,17 @@ Malgré que le fichier ```manifest.json``` doit être à la base du répertoire,
 
 ### Example de structure de jeux:
 ```
-|- ExampleGame
-|--- D3D12
-|--- MonoBleedingEdge
-|--- ExampleGame_Data
-|--- ExampleGame.exe
-|--- UnityCrashHandler.exe
-|--- UnityPlayer.dll
-|--- manifest.json
+ExampleGame/
+├─ D3D12/
+│  └─ ...
+├─ MonoBleedingEdge/
+│  └─ ...
+├─ ExampleGame_Data/
+│  └─ ...
+├─ ExampleGame.exe
+├─ UnityCrashHandler.exe
+├─ UnityPlayer.dll
+└─ manifest.json
 ```
 ## Créer un fichier manifest
 La structure du manifest est quand même asser simple.
@@ -22,11 +25,11 @@ Tout ce qu'il contient sont les info requis pour lancer et jeu, ainsi que des do
 
 ### Explications
 - **Manifest Version**: La version de la structure de données du fichier (actuellement il n'y a que 1)+
-- **Game Path**: Le chemin ou se trouve l'executable du jeu
+- **Game Path**: Le chemin ou se trouve l'executable du jeu de la base de l'executable ArcadeLauncher
 - **Game Name**: Le nom du jeu qui sera montré dans le launcher
 - **Game Version**: La version du jeu
 - **Author**: Le ou les auteurs qui ont créé le jeu
-- **Image Path**: Le chemin dde l'image qui sera montré dans le launcher
+- **Image Path**: Le chemin de l'image de la base de l'executable ArcadeLauncher qui sera montré dans le launcher
 
 ### Example d'un fichier manifest
 ```json
