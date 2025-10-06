@@ -7,7 +7,7 @@ namespace ArcadeLauncher.Utils
 {
     public static class ExecutableHelper
     {
-        private const string STUB_EXECUTABLE_NAME = "LauncherStub.exe";
+        private const string STUB_EXECUTABLE_NAME = "ArcadeStub.exe";
         private const string LAUNCHER_EXECUTABLE_NAME = "ArcadeLauncher.exe";
 
         public static bool LaunchGame(string gamePath)
