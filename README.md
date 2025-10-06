@@ -35,7 +35,7 @@ Il s'agit du **lanceur principal**, développé avec Unity. Il propose :
 - Fournir une couche d’abstraction ou de compatibilité, si nécessaire
 - Être placé **à la racine du dossier de build** sous le nom `ArcadeStub.exe`
 
-- ### 3. `GamePatcher/` (C#)
+### 3. `GamePatcher/` (C#)
 
 > **Type** : Outil de patch / nettoyage de jeux  
 > **Langage** : C#
@@ -45,4 +45,5 @@ Il s'agit du **lanceur principal**, développé avec Unity. Il propose :
 **Fonctionnalités principales :**
 
 - Injection de code qui empèche les jeux faites pour le vieux Portail de ne pas quitter
+
 
