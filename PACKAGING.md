@@ -2,15 +2,11 @@
 
 Ce projet est développé avec **Unity**. Ce document décrit comment générer et packager correctement le build de **ArcadeLauncher**, prêt pour distribution.
 
----
-
 ## Prérequis
 
 - Unity installé (version utilisée : spécifiez ici si nécessaire).
 - Le projet Unity ouvert et fonctionnel.
 - `LauncherStub.exe` (fourni séparément).
-
----
 
 ## Étapes de Build & Packaging
 
@@ -43,11 +39,7 @@ Copiez **manuellement** le fichier `LauncherStub.exe` à la **racine du dossier 
 
 > **Important** : `LauncherStub.exe` n’est pas généré par Unity. Il doit être compilé et copié **manuellement** après chaque build.
 
----
-
 ## Tester le build
 
 - Double-cliquez sur `ArcadeLauncher.exe` pour lancer le jeu.
 - Vérifiez que tout fonctionne correctement (résolution, scènes, assets...).
-
----
