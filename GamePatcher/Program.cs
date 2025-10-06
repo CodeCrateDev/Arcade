@@ -33,7 +33,7 @@ namespace GamePatcher
 					Log.Info($"Backup created at {backupPath}");
 				}
 
-				var patcher = new DllPatcher(dllPath);
+				DllPatcher patcher = new DllPatcher(dllPath);
 				patcher.AddPatch(new LegacyLauncherCallPatch());
 
 				int patches = patcher.ApplyPatches();

@@ -1,5 +1,6 @@
 ﻿using Mono.Cecil;
 using Mono.Cecil.Cil;
+using Mono.Collections.Generic;
 using System;
 using System.Linq;
 
@@ -32,11 +33,11 @@ namespace GamePatcher
 						continue;
 					}
 
-					var il = method.Body.Instructions;
+					Collection<Instruction> il = method.Body.Instructions;
 
 					for (int i = 0; i < il.Count; i++)
 					{
-						var instr = il[i];
+						Instruction instr = il[i];
 
 						// Look for ldstr ".../Portail/Portail.exe"
 						if (instr.OpCode == OpCodes.Ldstr && instr.Operand is string s && s.Contains(TargetString))
@@ -88,7 +89,7 @@ namespace GamePatcher
 	// Helper extension for Cecil instruction list
 	static class CecilExtensions
 	{
-		public static int FindIndex(this Mono.Collections.Generic.Collection<Instruction> instructions, int startIndex, Func<Instruction, bool> predicate)
+		public static int FindIndex(this Collection<Instruction> instructions, int startIndex, Func<Instruction, bool> predicate)
 		{
 			for (int i = startIndex; i < instructions.Count; i++)
 			{
