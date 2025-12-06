@@ -1,4 +1,6 @@
-﻿using Mono.Cecil;
+﻿using GamePatcher.Interfaces;
+using GamePatcher.Utils;
+using Mono.Cecil;
 
 namespace GamePatcher
 {
@@ -12,7 +14,7 @@ namespace GamePatcher
 		{
 			_path = path;
 
-			var readerParams = new ReaderParameters
+			ReaderParameters readerParams = new ReaderParameters
 			{
 				ReadingMode = ReadingMode.Immediate,
 				InMemory = true
@@ -30,7 +32,7 @@ namespace GamePatcher
 		{
 			int totalApplied = 0;
 
-			foreach (var patch in _patches)
+			foreach (IPatch patch in _patches)
 			{
 				Log.Info($"Applying patch: {patch.Name}\n");
 				totalApplied += patch.Apply(_assembly);

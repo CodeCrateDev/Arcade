@@ -1,6 +1,6 @@
 ﻿using Mono.Cecil;
 
-namespace GamePatcher
+namespace GamePatcher.Interfaces
 {
 	public interface IPatch
 	{
