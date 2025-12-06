@@ -2,6 +2,10 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+
+# Custom editor stuff
+/[Aa]ssets/StubInfo.cs
+
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
