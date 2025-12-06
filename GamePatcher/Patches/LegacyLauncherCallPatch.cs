@@ -1,16 +1,16 @@
-﻿using Mono.Cecil;
+﻿using GamePatcher.Interfaces;
+using GamePatcher.Utils;
+using Mono.Cecil;
 using Mono.Cecil.Cil;
 using Mono.Collections.Generic;
-using System;
-using System.Linq;
 
-namespace GamePatcher
+namespace GamePatcher.Patches
 {
 	public class LegacyLauncherCallPatch : IPatch
 	{
 		public string Name => "Remove Legacy Launcher Process Call";
 
-		private const string TargetString = "/../../Portail/Portail.exe";
+		private const string TARGET_LITERAL = "/../../Portail/Portail.exe";
 
 		public int Apply(AssemblyDefinition assembly)
 		{
@@ -40,7 +40,7 @@ namespace GamePatcher
 						Instruction instr = il[i];
 
 						// Look for ldstr ".../Portail/Portail.exe"
-						if (instr.OpCode == OpCodes.Ldstr && instr.Operand is string s && s.Contains(TargetString))
+						if (instr.OpCode == OpCodes.Ldstr && instr.Operand is string s && s.Contains(TARGET_LITERAL))
 						{
 							// Find following Process.Start call
 							int startCallIndex = il.FindIndex(i + 1, ins =>
@@ -59,13 +59,6 @@ namespace GamePatcher
 									il[j].Operand = null;
 								}
 
-								// Optional: clean up empty methods
-								if (MethodIsEmpty(method))
-								{
-									method.Body.Instructions.Clear();
-									method.Body.Instructions.Add(Instruction.Create(OpCodes.Ret));
-								}
-
 								local++;
 								patches++;
 							}
@@ -77,26 +70,6 @@ namespace GamePatcher
 			}
 
 			return patches;
-		}
-
-		private bool MethodIsEmpty(MethodDefinition method)
-		{
-			// Checks if after NOPing, there's nothing meaningful left
-			return method.Body.Instructions.All(ins => ins.OpCode == OpCodes.Nop);
-		}
-	}
-
-	// Helper extension for Cecil instruction list
-	static class CecilExtensions
-	{
-		public static int FindIndex(this Collection<Instruction> instructions, int startIndex, Func<Instruction, bool> predicate)
-		{
-			for (int i = startIndex; i < instructions.Count; i++)
-			{
-				if (predicate(instructions[i]))
-					return i;
-			}
-			return -1;
 		}
 	}
 }

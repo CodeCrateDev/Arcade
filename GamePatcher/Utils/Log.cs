@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GamePatcher
+namespace GamePatcher.Utils
 {
 	public static class Log
 	{

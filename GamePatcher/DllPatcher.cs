@@ -1,4 +1,6 @@
-﻿using Mono.Cecil;
+﻿using GamePatcher.Interfaces;
+using GamePatcher.Utils;
+using Mono.Cecil;
 
 namespace GamePatcher
 {
