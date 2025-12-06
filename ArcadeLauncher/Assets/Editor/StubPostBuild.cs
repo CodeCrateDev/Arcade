@@ -3,12 +3,12 @@ using UnityEditor;
 using UnityEditor.Callbacks;
 using UnityEngine;
 
-public class ArcadeStubPostBuild : MonoBehaviour
+public class StubPostBuild : MonoBehaviour
 {
 	[PostProcessBuild]
 	public static void CopyExternalExe(BuildTarget target, string buildPath)
 	{
-		string sourceExe = ArcadeStubSettingsWindow.GetExternalExePath();
+		string sourceExe = StubSettingsWindow.GetExternalExePath();
 
 		if (string.IsNullOrEmpty(sourceExe) || !File.Exists(sourceExe))
 		{
@@ -24,6 +24,6 @@ public class ArcadeStubPostBuild : MonoBehaviour
 		Debug.Log($"External EXE copied to build: {destination}");
 
 		// Update variable file
-		ExternalStubVariableGenerator.UpdateExeName(fileName);
+		StubInfoGenerator.UpdateExeName(fileName);
 	}
 }

@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEditor;
 using System.IO;
 
-public class ArcadeStubSettingsWindow : EditorWindow
+public class StubSettingsWindow : EditorWindow
 {
 	private const string EXE_PATH_KEY = "ArcadeStubPath";
 	private static bool checkedStartup = false;
@@ -28,7 +28,7 @@ public class ArcadeStubSettingsWindow : EditorWindow
 	[MenuItem("Tools/Stub Settings")]
 	public static void ShowWindow()
 	{
-		ArcadeStubSettingsWindow instance = GetWindow<ArcadeStubSettingsWindow>("Stub Settings");
+		StubSettingsWindow instance = GetWindow<StubSettingsWindow>("Stub Settings");
 		instance.minSize = new Vector2(450, 260);
 		instance.maxSize = new Vector2(450, 260);
 		instance.Repaint();
@@ -87,7 +87,7 @@ public class ArcadeStubSettingsWindow : EditorWindow
 			if (!string.IsNullOrEmpty(path) && File.Exists(path))
 			{
 				string exeName = Path.GetFileName(path);
-				ExternalStubVariableGenerator.UpdateExeName(exeName);
+				StubInfoGenerator.UpdateExeName(exeName);
 				EditorUtility.DisplayDialog("Success", "EXE filename refreshed!", "OK");
 			}
 			else

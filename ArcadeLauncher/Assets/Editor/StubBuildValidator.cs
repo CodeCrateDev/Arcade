@@ -12,7 +12,7 @@ public static class StubBuildValidator
 
 	private static void BuildPlayer(BuildPlayerOptions options)
 	{
-		string exePath = ArcadeStubSettingsWindow.GetExternalExePath();
+		string exePath = StubSettingsWindow.GetExternalExePath();
 
 		if (string.IsNullOrEmpty(exePath) || !File.Exists(exePath))
 		{

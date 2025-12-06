@@ -2,7 +2,7 @@ using UnityEditor;
 using UnityEngine;
 using System.IO;
 
-public class ExternalStubVariableGenerator
+public class StubInfoGenerator
 {
 	private const string OutputPath = "Assets/StubInfo.cs";
 
