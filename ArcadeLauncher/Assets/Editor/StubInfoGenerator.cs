@@ -11,9 +11,10 @@ public class StubInfoGenerator
 		string content =
 		$@"// AUTO-GENERATED
 // DO NOT EDIT
-public static class ExternalExeInfo 
+
+public static class StubInfo 
 {{
-    public const string ExeFileName = ""{exeName}"";
+    public const string STUB_FILE_NAME = ""{exeName}"";
 }}";
 
 		File.WriteAllText(OutputPath, content);
